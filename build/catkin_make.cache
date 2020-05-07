@@ -1,0 +1,2 @@
+find-object:kinect_v2_udrf/kinect_v2:moveit_grasps:opencv:pysdf:python_control:robotiq/robotiq_description:robotiq/robotiq_gazebo:ur5/ur5_description:ur5/ur5_gazebo:ur_moveit_config
+-DCATKIN_DEVEL_PREFIX=/home/hongshaorou/ros_ws/devel -DCMAKE_INSTALL_PREFIX=/home/hongshaorou/ros_ws/install -G Unix Makefiles

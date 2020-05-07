@@ -1,0 +1,10 @@
+\subsubsection parameters ROS parameters
+
+Reads and maintains the following parameters on the ROS server
+
+- \b "~param1" : \b [int] blockSize parameter of cv::adaptiveThreshold min: 1, default: 7, max: 15
+- \b "~param2" : \b [int] C parameter of cv::adaptiveThreshold min: 1, default: 7, max: 15
+- \b "~normalizeImage" : \b [bool] normalizeImage min: False, default: True, max: True
+- \b "~dctComponentsToRemove" : \b [int] DCT components to remove min: 1, default: 2, max: 4
+- \b "~degree" : \b [int] Degree to rotate min: 0, default: 0, max: 360
+

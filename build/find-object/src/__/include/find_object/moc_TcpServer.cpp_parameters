@@ -1,0 +1,12 @@
+-I/home/hongshaorou/ros_ws/devel/include
+-DROS_BUILD_SHARED_LIBS=1
+-DROS_BUILD_SHARED_LIBS=1
+-DPROJECT_PREFIX="find_object"
+-DPROJECT_VERSION="0.6.2"
+-DPROJECT_NAME="find_object_2d"
+-DQT_NO_KEYWORDS
+-DROS_PACKAGE_NAME="find_object_2d"
+-DROSCONSOLE_BACKEND_LOG4CXX
+-o
+/home/hongshaorou/ros_ws/build/find-object/src/__/include/find_object/moc_TcpServer.cpp
+/home/hongshaorou/ros_ws/src/find-object/include/find_object/TcpServer.h

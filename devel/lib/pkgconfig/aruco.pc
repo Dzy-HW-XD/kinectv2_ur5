@@ -1,0 +1,8 @@
+prefix=/home/hongshaorou/ros_ws/devel
+
+Name: aruco
+Description: Description of aruco
+Version: 0.2.4
+Cflags: -I/home/hongshaorou/ros_ws/src/aruco_ros/aruco/include
+Libs: -L${prefix}/lib -laruco
+Requires: 

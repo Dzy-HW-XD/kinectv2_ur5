@@ -1,0 +1,8 @@
+prefix=/home/hongshaorou/ros_ws/devel
+
+Name: easy_handeye
+Description: Description of easy_handeye
+Version: 0.2.0
+Cflags: -I/home/hongshaorou/ros_ws/devel/include
+Libs: -L${prefix}/lib 
+Requires: geometry_msgs message_runtime std_msgs visp_hand2eye_calibration

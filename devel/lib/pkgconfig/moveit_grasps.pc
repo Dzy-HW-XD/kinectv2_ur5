@@ -1,0 +1,8 @@
+prefix=/home/hongshaorou/ros_ws/devel
+
+Name: moveit_grasps
+Description: Description of moveit_grasps
+Version: 2.0.0
+Cflags: -I/home/hongshaorou/ros_ws/src/moveit_grasps/include -I/usr/include/eigen3
+Libs: -L${prefix}/lib -lmoveit_grasps -lmoveit_grasps_filter
+Requires: geometry_msgs message_runtime moveit_msgs moveit_visual_tools rosparam_shortcuts std_msgs trajectory_msgs

@@ -1,0 +1,8 @@
+prefix=/home/hongshaorou/ros_ws/install
+
+Name: ur5_gazebo
+Description: Description of ur5_gazebo
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

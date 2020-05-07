@@ -1,0 +1,11 @@
+\subsubsection usage Usage
+\verbatim
+<node name="double" pkg="aruco_ros" type="double">
+  <param name="param1" type="int" value="7" />
+  <param name="param2" type="int" value="7" />
+  <param name="normalizeImage" type="bool" value="True" />
+  <param name="dctComponentsToRemove" type="int" value="2" />
+  <param name="degree" type="int" value="0" />
+</node>
+\endverbatim
+

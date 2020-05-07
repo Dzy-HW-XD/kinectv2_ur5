@@ -1,0 +1,8 @@
+prefix=/home/hongshaorou/ros_ws/install
+
+Name: python_control
+Description: Description of python_control
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

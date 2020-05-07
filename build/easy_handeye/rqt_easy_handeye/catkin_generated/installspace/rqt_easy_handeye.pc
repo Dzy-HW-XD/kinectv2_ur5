@@ -1,0 +1,8 @@
+prefix=/home/hongshaorou/ros_ws/install
+
+Name: rqt_easy_handeye
+Description: Description of rqt_easy_handeye
+Version: 0.2.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

@@ -1,0 +1,8 @@
+prefix=/home/hongshaorou/ros_ws/install
+
+Name: find_object_2d
+Description: Description of find_object_2d
+Version: 0.6.2
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: cv_bridge roscpp rospy sensor_msgs std_msgs image_transport message_filters tf message_runtime

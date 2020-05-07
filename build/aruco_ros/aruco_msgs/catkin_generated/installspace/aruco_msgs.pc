@@ -1,0 +1,8 @@
+prefix=/home/hongshaorou/ros_ws/install
+
+Name: aruco_msgs
+Description: Description of aruco_msgs
+Version: 0.2.4
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: message_runtime geometry_msgs std_msgs

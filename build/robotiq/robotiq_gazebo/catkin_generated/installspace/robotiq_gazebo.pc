@@ -1,0 +1,8 @@
+prefix=/home/hongshaorou/ros_ws/install
+
+Name: robotiq_gazebo
+Description: Description of robotiq_gazebo
+Version: 0.1.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: roscpp gazebo_ros control_toolbox xmlrpcpp

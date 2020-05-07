@@ -1,0 +1,8 @@
+prefix=/home/hongshaorou/ros_ws/install
+
+Name: opencv
+Description: Description of opencv
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

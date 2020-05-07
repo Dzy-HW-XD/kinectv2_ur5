@@ -1,0 +1,8 @@
+prefix=/home/hongshaorou/ros_ws/devel
+
+Name: ur5_description
+Description: Description of ur5_description
+Version: 0.1.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

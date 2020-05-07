@@ -1,0 +1,8 @@
+prefix=/home/hongshaorou/ros_ws/devel
+
+Name: aruco_ros
+Description: Description of aruco_ros
+Version: 0.2.4
+Cflags: -I/home/hongshaorou/ros_ws/devel/include -I/home/hongshaorou/ros_ws/src/aruco_ros/aruco_ros/include
+Libs: -L${prefix}/lib -laruco_ros_utils
+Requires: aruco sensor_msgs tf

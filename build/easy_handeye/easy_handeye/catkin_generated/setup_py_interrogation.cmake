@@ -1,0 +1,6 @@
+set(easy_handeye_SETUP_PY_VERSION "0.2.0")
+set(easy_handeye_SETUP_PY_SCRIPTS "")
+set(easy_handeye_SETUP_PY_PACKAGES "easy_handeye")
+set(easy_handeye_SETUP_PY_PACKAGE_DIRS "src/easy_handeye")
+set(easy_handeye_SETUP_PY_MODULES "")
+set(easy_handeye_SETUP_PY_MODULE_DIRS "")
