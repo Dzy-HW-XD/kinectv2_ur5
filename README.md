@@ -12,4 +12,4 @@
 >>`roslaunch python_control control.launch`   #控制机械臂末端迫近目标物体，并尝试抓取目标物体<br>
 >>`END`<br>
 <br>
-Ziyudu_finalyear_report.pdf文件中详细介绍了该项目原理，过程与项目结果<br>
+`Ziyudu_finalyear_report.pdf`文件中详细介绍了该项目原理，过程与项目结果<br>
