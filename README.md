@@ -4,7 +4,7 @@
 运行流程：
 
 START
-rosrun rocore #启动ROS核心
+rosrun rocore #启动ROS核心<br>
 roslaunch ur_moveit_config demo_gazebo.launch     #启动ur5，robotiq，桌子，颜色块模型
 roslaunch find_object_3d_kinect2.launch           #启动 find-object 进行识别
                                                   #启动find-object后利用SIFT算法进行识别，将识别物体到坐标发布到master
