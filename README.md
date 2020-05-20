@@ -11,5 +11,11 @@
 >>`END`<br>
 ##  OpenCV 识别颜色块  <br>
 ![](https://github.com/Dzy-HW-XD/kinectv2_ur5/raw/master/截屏2020-02-2023.01.23.png)<br>
+##  find-object 识别  <br>
+![](https://github.com/Dzy-HW-XD/kinectv2_ur5/raw/master/截屏2020-02-2023.01.23.png)<br>
+##  rqt_graph  <br>
+![](https://github.com/Dzy-HW-XD/kinectv2_ur5/raw/master/截屏2020-02-2023.01.23.png)<br>
+##  最终结果展示 <br>
+![](https://github.com/Dzy-HW-XD/kinectv2_ur5/raw/master/截屏2020-02-2023.01.23.png)<br>
 
 Ziyudu_finalyear_report.pdf文件中详细介绍了该项目原理，过程与项目结果<br>
