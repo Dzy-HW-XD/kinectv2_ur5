@@ -12,7 +12,7 @@
 >>`roslaunch python_control control.launch`   #控制机械臂末端迫近目标物体，并尝试抓取目标物体<br>
 >>`END`<br>
 <br>
-## OpenCV 识别颜色块 <br>
-![Image] (https://github.com/Dzy-HW-XD/kinectv2_ur5/raw/master/截屏2020-02-2023.01.23.png) <br>
+##  OpenCV 识别颜色块 <br>
+![Image](https://github.com/Dzy-HW-XD/kinectv2_ur5/raw/master/截屏2020-02-2023.01.23.png)<br>
 
 Ziyudu_finalyear_report.pdf文件中详细介绍了该项目原理，过程与项目结果<br>
