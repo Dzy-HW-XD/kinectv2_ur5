@@ -13,6 +13,6 @@
 >>`END`<br>
 <br>
 ## OpenCV 识别颜色块 <br>
-![Image text] (https://github.com/Dzy-HW-XD/kinectv2_ur5/raw/master/截屏2020-02-2023.01.23.png) <br>
+![Image] (https://github.com/Dzy-HW-XD/kinectv2_ur5/raw/master/截屏2020-02-2023.01.23.png) <br>
 
 Ziyudu_finalyear_report.pdf文件中详细介绍了该项目原理，过程与项目结果<br>
