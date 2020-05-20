@@ -1,6 +1,4 @@
 # kinectv2_ur5
-
-
 >运行流程：
 
 >>`START`<br>
@@ -11,7 +9,6 @@
 >>`rosrun opencv tf_listener.py`    #启动坐标转化脚本，将目标物体位相机坐标系转化为目标物体机械臂Base坐标系<br>
 >>`roslaunch python_control control.launch`   #控制机械臂末端迫近目标物体，并尝试抓取目标物体<br>
 >>`END`<br>
-<br>
 ##  OpenCV 识别颜色块  <br>
 ![](https://github.com/Dzy-HW-XD/kinectv2_ur5/raw/master/截屏2020-02-2023.01.23.png)<br>
 
