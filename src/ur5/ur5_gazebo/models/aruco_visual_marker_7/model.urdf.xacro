@@ -1,0 +1,48 @@
+<?xml version="1.0" ?>
+<robot name="aruco_visual_marker_7" xmlns:xacro="http://www.ros.org/wiki/xacro">
+  <joint name="aruco_visual_marker_7__marker_JOINT_marker_pad" type="fixed">
+    <parent link="aruco_visual_marker_7__marker"/>
+    <child link="aruco_visual_marker_7__marker_pad"/>
+    <origin rpy="0  0  0" xyz="0.00000000e+00   0.00000000e+00  -1.00000000e-05"/>
+    <axis xyz="0  0  1"/>
+    <limit effort="0.0" lower="0.0" upper="0.0" velocity="0.0"/>
+  </joint>
+  <link name="aruco_visual_marker_7__marker">
+    <inertial>
+      <mass value="0"/>
+      <origin rpy="0  0  0" xyz="0  0  0"/>
+      <inertia ixx="0" ixy="0" ixz="0" iyy="0" iyz="0" izz="0"/>
+    </inertial>
+    <collision name="aruco_visual_marker_7__collision">
+      <origin rpy="0  0  0" xyz="0  0  0"/>
+      <geometry>
+        <box size="0.1778 0.1778 1e-05"/>
+      </geometry>
+    </collision>
+    <visual name="aruco_visual_marker_7__visual">
+      <origin rpy="0  0  0" xyz="0  0  0"/>
+      <geometry>
+        <box size="0.1778 0.1778 1e-5"/>
+      </geometry>
+    </visual>
+  </link>
+  <link name="aruco_visual_marker_7__marker_pad">
+    <inertial>
+      <mass value="0"/>
+      <origin rpy="0  0  0" xyz="0  0  0"/>
+      <inertia ixx="0" ixy="0" ixz="0" iyy="0" iyz="0" izz="0"/>
+    </inertial>
+    <collision name="aruco_visual_marker_7__collision">
+      <origin rpy="0  0  0" xyz="0  0  0"/>
+      <geometry>
+        <box size="0.1778 0.1778 1e-5"/>
+      </geometry>
+    </collision>
+    <visual name="aruco_visual_marker_7__visual">
+      <origin rpy="0  0  0" xyz="0  0  0"/>
+      <geometry>
+        <box size="0.1778 0.1778 1e-5"/>
+      </geometry>
+    </visual>
+  </link>
+</robot>

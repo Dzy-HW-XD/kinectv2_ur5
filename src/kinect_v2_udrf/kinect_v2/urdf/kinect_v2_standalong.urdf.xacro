@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<robot name="kinect_v2" xmlns:xacro="http://ros.org/wiki/xacro">
+     <xacro:include filename="$(find franka_gazebo)/robots/sensor/kinect_v2.urdf.xacro" />
+     <!--link name="world"/-->
+    <xacro:kinect_v2  parent="world">
+        <origin xyz="0 0 10"
+                rpy="0 0 0" />
+    </xacro:kinect_v2>
+</robot>
